@@ -5,9 +5,15 @@ sample python script that check if the provided DNS is blacklisted or not
 1) Python 
 2) Selenium python
 3 ) Report lab
-run python test.py
 
-Python script for port scanning 
+
+run python mal_test.py
+
+Python script for port scanning.
+
+
 . Requirements 
  1) Nmap
- 
+
+
+run test.py
